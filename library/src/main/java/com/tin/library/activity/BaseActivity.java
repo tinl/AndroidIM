@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AppCompatDelegate;
 
 /**
- * @author wangtian
+ * @author tin
  */
 public class BaseActivity extends AppCompatActivity {
 

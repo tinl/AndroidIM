@@ -9,7 +9,7 @@ import java.util.Locale;
 /**
  * @author tin
  */
-public final class DateConvertUtils {
+public final class DateUtils {
 
     public static final String DATA_FORMAT_PATTEN_YYYY_MM_DD_HH_MM_SS = "yyyy-MM-dd HH:mm:ss";
     public static final String DATA_FORMAT_PATTEN_YYYY_MM_DD_HH_MM = "yyyy-MM-dd HH:mm";

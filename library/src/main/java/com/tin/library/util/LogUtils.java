@@ -1,6 +1,6 @@
 package com.tin.library.util;
 
-import android.support.compat.BuildConfig;
+import android.support.design.BuildConfig;
 import android.util.Log;
 
 /**
